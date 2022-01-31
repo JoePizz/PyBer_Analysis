@@ -1,6 +1,6 @@
 # PyBer_Analysis
 <p>1.**Overview**<p>
-<p>The purpose of this analysis is to determine the number of retiring employees as well as the titles of these employees. Additionally, the analysis also determined which employees are eligible to participate in a mentorship program, and what their title is.<p>
+<p>The purpose of this analysis is to create a summary DataFrame of the ride-sharing data by city type. Additionally, we visualized the total weekly fares for each city type<p>
 
 <p>2. **Results**<p>
 <p>As you can see by following the link: https://github.com/JoePizz/PyBer_Analysis/blob/main/Pyber_Analysis.png, Urban rides account for 80.9% of the total rides while suburban accounts for 16.5% and Rural accounts for 2.6%.<p>
